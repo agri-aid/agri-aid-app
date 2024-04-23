@@ -1,5 +1,0 @@
-plotly
-mysql-connector-python
-sqlalchemy
-pkgconfig
-mysqlclient
